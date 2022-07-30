@@ -1,0 +1,54 @@
+{
+  "news": [
+    {
+      "id": "d95e7de8-a578-43aa-b101-08a5494edb7a",
+      "name": "Barcelona close to beating Chelsea to Jules Koundé after agreeing €50m fee",
+      "description": "Barcelona are close to beating Chelsea to the signing of Jules Koundé after agreeing a €50m fee with Sevilla for the France defender.\n\nChelsea thought they had won the race to sign Koundé last week, but Thomas Tuchel will have to shift his focus to other defensive targets after Barça derailed his transfer plans once again. Wesley Fofana is one option for Tuchel, though Leicester will not allow the 21-year-old centre-back to leave unless they receive a huge bid for him.",
+      "category": "Football news"
+    },
+    {
+      "id": "68899faf-544f-46a0-b052-2122fcfefa4b",
+      "name": "Bowls, boxing, basketball: Birmingham’s bonanza of sport",
+      "description": "The Birmingham Commonwealth Games began with this out-of-synch countdown in (and yes I had to triple check this) Royal Leamington Spa, where, at just gone eight on Friday morning, 80 finely-honed athletes filed out of a little wooden pavilion in Victoria Park to begin the first of nine days of ruthlessly competitive lawn bowls. Friendly Games my foot. Go tell it to Wales’ five-time world champion Laura Daniels, who wiped out a 59-year-old Falkland Islander called Daphne Arthur-Almond 21-2 while you were finishing your breakfast.",
+      "category": "Sport news"
+    },
+    {
+      "id": "0632a1fe-3889-4c0b-91a4-998cf49bfacf",
+      "name": "Elon Musk countersues Twitter over $44bn deal amid fresh legal action by shareholder",
+      "description": "Elon Musk has countersued Twitter, escalating his legal fight against the social media company over his bid to walk away from the $44bn purchase.\n\nMusk’s lawsuit was filed on Friday, hours after chancellor Kathaleen McCormick of the Delaware court of chancery ordered a five-day trial beginning 17 October to determine if Musk can walk away from the deal.\n\nThe entrepreneur’s 164-page document was not publicly available, however under court rules a redacted version could soon be published.\n\nTwitter did not immediately respond to a request for comment.",
+      "category": "Hot news"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot news",
+      "label": "Hot news",
+      "className": "btn-outline-danger"
+    },
+    {
+      "name": "Sport news",
+      "label": "Sport news",
+      "className": "btn-outline-primary"
+    },
+    {
+      "name": "Football news",
+      "label": "Football news",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Box news",
+      "label": "Box news",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "World news",
+      "label": "World news",
+      "className": "btn-outline-success"
+    }
+  ]
+}
